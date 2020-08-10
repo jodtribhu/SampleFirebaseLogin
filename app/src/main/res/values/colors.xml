@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="register_text">#FFF9C4</color>
+    <color name="Registercolor">#795548</color>
+    <color name="CardView">#E6EE9C</color>
+</resources>

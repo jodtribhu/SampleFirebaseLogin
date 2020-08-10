@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImageRecognition</string>
+    <string name="register_email">Email</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+    <string name="button_verify">Verify</string>
+    <string name="button_register">Register</string>
+    <string name="SignIn">SIGN IN</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="Signin_button">Sign In</string>
+    <string name="Create_text">Create an account</string>
+    <string name="Signout">Sign Out</string>
+    <string name="register_contact">Contact No</string>
+    <string name="register_occupation">Occupation</string>
+</resources>
